@@ -62,7 +62,7 @@ brain --db ./brain.db ingest samples/product-kickoff.txt
 ```markdown
 # 我们决定 MVP 只做三件事：导入 .txt 口播稿、生成结构化笔记、让多个 agent 读写同一份结构化记忆
 
-> 来源：product-kickoff.txt · agent：`agent:pm` · 2026-11-07 · 888 字 · 引擎：heuristic
+> 来源：product-kickoff.txt · agent：`agent:pm` · 2026-11-07 · 951 字 · 引擎：heuristic
 
 ## 摘要
 ...

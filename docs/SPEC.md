@@ -387,7 +387,7 @@ Claude 通过 MCP 读取团队记忆写方案；Cursor 通过 MCP 把新决策�
   "warnings": [],
   "agent_id": "agent:pm",
   "created_at": "2026-11-07T10:00:00Z",
-  "source": {"filename": "talk.txt", "sha256": "...", "chars": 2693},
+  "source": {"filename": "talk.txt", "sha256": "...", "chars": 951},
   "source_stats": {"segments": 42, "speakers": ["主持人", "嘉宾"], "has_timestamps": true}
 }
 ```
