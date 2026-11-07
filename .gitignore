@@ -1,0 +1,12 @@
+__pycache__/
+*.py[cod]
+*.egg-info/
+build/
+dist/
+.venv/
+brain.db
+brain.db-wal
+brain.db-shm
+.brain/
+*.log
+.pytest_cache/

@@ -1,0 +1,19 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "shared-brain"
+version = "0.1.0"
+description = "Turn spoken-word .txt transcripts into structured notes and a shared, provenance-aware memory for multiple agents."
+readme = "README.md"
+requires-python = ">=3.10"
+authors = [{ name = "zhai06064915", email = "62683913+zhai06064915@users.noreply.github.com" }]
+keywords = ["transcript", "notes", "agent-memory", "mcp", "sqlite"]
+dependencies = []
+
+[project.scripts]
+brain = "brain.cli:main"
+
+[tool.setuptools.packages.find]
+include = ["brain*"]
